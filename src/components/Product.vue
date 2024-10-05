@@ -50,6 +50,10 @@ main{
     width: 300px;
     padding: 20px;
     border-radius: 8PX;
+    transition: all .1s ease;
+}
+.product-container:hover{
+    transform: scale(1.05);
 }
 
 </style>
